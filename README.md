@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kcohane00
 - 💻 I’m a Digital Marketing Instructor.
 - 🎓 I completed a Ph.D. on AI bots and how they affect social networks.
-- 📊 I just started Thinkful's Data Analytics program. 
+- 📊 Completing Thinkful's Data Analytics certification. 
 - 📫 How to reach me https://kcohane.wixsite.com/hello
 
 <!---
