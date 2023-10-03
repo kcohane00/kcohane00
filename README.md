@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @kcohane00.
-- 💻 I’m currently working in EdTech as Data Analyst | Associate Director of Program Performance.
-- 🎓 I completed a Ph.D. on AI bots and how they affect social networks.
-- 📊 I completed Thinkful's Data Analytics certification. 
+- 👋 Hi, I’m @kcohane00
+- 💻 I’m currently working in EdTech as Data Analyst | Associate Director of Program Performance
+- 🎓 I completed a Ph.D. on AI bots and how they affect social networks
+- 📊 I completed Thinkful's Data Analytics certification
+- 🌩️ I enjoy coding in Python and SQL
 - 📫 How to reach me https://kcohane.wixsite.com/hello
 
 <!---
