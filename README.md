@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kcohane00
+- 👋 Hi, I’m Kimberly Cohane
 - 💻 I’m currently working in EdTech as Data Analyst | Associate Director of Program Performance
 - 🎓 I completed a Ph.D. on AI bots and how they affect social networks
 - 📊 I completed Thinkful's Data Analytics certification
